@@ -1,6 +1,7 @@
 {
   "paperspigot": {
-    "latest": "https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar",
-    "1.21.8": "https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar"
+    "latest": "https://fill-data.papermc.io/v1/objects/df0782bc9f9b69a79d6aa2282e713892f338e4e198db688c982a9923f1d4eac3/paper-1.21.11-103.jar",
+    "1.21.8": "https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar",
+    "1.21.11": "https://fill-data.papermc.io/v1/objects/df0782bc9f9b69a79d6aa2282e713892f338e4e198db688c982a9923f1d4eac3/paper-1.21.11-103.jar"
   }
 }
